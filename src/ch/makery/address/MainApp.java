@@ -23,6 +23,8 @@ public class MainApp extends Application {
      */
     private ObservableList<Person> personData = FXCollections.observableArrayList();
 
+   //new comment for the git commit 
+    
     /**
      * Constructor
      */
